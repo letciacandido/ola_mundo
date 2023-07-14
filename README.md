@@ -1,2 +1,4 @@
-# rep_ola_mundo
- Repositório de exercício do curso de Git e GitHub
+# Olá, Mundo
+ Primeiro repositório de exercício do curso de Git e GitHub
+
+ Repositório criado durante uma aula ao vivo.
